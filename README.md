@@ -1,4 +1,4 @@
-# 🛡️ Insurance Claims Analytics using Python
+#  Insurance Claims Analytics using Python
 
 ##  Project Overview
 
